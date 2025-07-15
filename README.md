@@ -1,8 +1,6 @@
 # 🌍 Res - Q - tech
 
 frontend webpage :- https://resq-tech.vercel.app/
-frontend code :- https://github.com/Aarwin10/ResQ-tech
-demo video link - https://drive.google.com/drive/folders/1Gg7et9uK6rx3c2Y5XjSE-bTJbRemfSNI5VWoqcLgkNk5-JUU0E9NmH2Mcw9RHR1RldbXUw60
 
 A machine learning-powered application for predicting resource requirements during disaster relief operations.
 
