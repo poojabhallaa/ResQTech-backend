@@ -1,7 +1,5 @@
 # 🌍 Res - Q - tech
 
-frontend webpage :- https://resq-tech.vercel.app/
-
 A machine learning-powered application for predicting resource requirements during disaster relief operations.
 
 ## Overview
