@@ -345,11 +345,11 @@ from streamlit_folium import st_folium
 from google.generativeai import configure, GenerativeModel
 
 # Configure Gemini AI
-configure(api_key="AIzaSyDS9uZKp5l6xOdgqLVUxcxjp8QvDwNY69M")
+configure(api_key="AIzaSyA0Lw_Vpr2G1rF3ZkHfFZCgj9fhl8P1iYc")
 genai_model = GenerativeModel("gemini-2.0-flash")
 
 # Load model
-with open('disaster_relief_model.pkl', 'rb') as file:
+with open('C:\\Users\\pooja\\Downloads\\ResQ-Tech\\backend\\disaster_relief_model.pkl', 'rb') as file:
     model = pickle.load(file)
 
 st.title("🌍 Disaster Relief Advance System")
